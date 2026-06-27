@@ -10,7 +10,7 @@
 
 ---
 ## Student information
-** Name: Emmanuel Tokpah Reg#: 21522/2023 ** 
+Name: Emmanuel Tokpah Reg#: 21522/2023  
 
 ## 🎯 Project Title
 **Emmlifestyle Store – No-Code E-Commerce Website Design Using Wix**
